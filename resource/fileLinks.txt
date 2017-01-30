@@ -1,0 +1,15 @@
+https://www.google.ru/
+https://vk.com/
+https://mail.ru/
+https://java4web.slack.com/
+https://habrahabr.ru/post/164487/
+http://www.quizful.net/post/java-threads/
+https://docs.oracle.com/javase/7/docs/api/java/lang/Thread.html
+https://docs.oracle.com/javase/8/docs/api/java/lang/Thread.html
+http://winterbe.com/posts/2015/04/07/java8-concurrency-tutorial-thread-executor-examples/
+https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/ExecutorService.html
+https://github.com/
+https://www.java.com/en/download/faq/develop.xml
+http://introcs.cs.princeton.edu/java/10elements/
+https://ru.coursera.org/specializations/java-programming
+http://www.oracle.com/technetwork/topics/newtojava/overview/index.html

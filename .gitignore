@@ -1,0 +1,10 @@
+#ignore folder
+.idea/
+.settings/
+.bin/
+.lib/
+.resource/
+#ignore file
+*.zip
+*.class 
+*.xml
